@@ -1,0 +1,13 @@
+.dashboard{
+    display: flex;
+    width: 90vw;
+    height: 80vh;
+    background-color: rgb(242, 245, 245);
+}
+
+.content-table{
+    position: absolute;
+    top: 20%;
+    left: 45%;
+    background-color: rgb(242, 245, 245);
+}

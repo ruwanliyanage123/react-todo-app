@@ -1,0 +1,6 @@
+.sidebar{
+    display: flex;
+    width: 10vw;
+    height: 80vh;
+    background-color: rgb(233, 233, 233);
+}
