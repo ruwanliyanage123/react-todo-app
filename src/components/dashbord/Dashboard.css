@@ -1,13 +1,5 @@
-.dashboard{
-    display: flex;
-    width: 90vw;
-    height: 80vh;
-    background-color: rgb(242, 245, 245);
-}
-
-.content-table{
+.button-panel{
     position: absolute;
-    top: 20%;
-    left: 45%;
-    background-color: rgb(242, 245, 245);
+    top: 35%;
+    left: 50%;
 }
